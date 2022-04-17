@@ -1,5 +1,5 @@
 # The-Greeting
-###My business card 
+### My business card 
 
 ## Main screen
 ![Screenshot 1](https://github.com/SemennikovNA/The-Greeting/blob/main/The%20Greeting/Screenshots/1.png)
